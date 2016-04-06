@@ -22,8 +22,9 @@ task clean(type: Delete) {
     delete rootProject.buildDir
 }
 
-//测试 提交到githup 上去（commit）
-//测试 提交到githup 上去（commit and pull）
+//嘎嘎嘎
+//XXXX测试 提交到githup 上去（commit）XXX
+//测试 提交到githup 上去（commit and pull）XXX
 
 
 //李四 修改了==========
