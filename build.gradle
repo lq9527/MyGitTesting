@@ -22,4 +22,5 @@ task clean(type: Delete) {
     delete rootProject.buildDir
 }
 
-//测试 提交到githup 上去
+//测试 提交到githup 上去（commit）
+//测试 提交到githup 上去（commit and pull）
